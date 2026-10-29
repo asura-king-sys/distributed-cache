@@ -1,0 +1,19 @@
+{
+  "name": "distributed-cache",
+  "version": "1.0.0",
+  "description": "",
+  "main": "arc/index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "express": "^5.3.0"
+  },
+  "devDependencies": {
+    "jest": "^30.5.2"
+  }
+}
