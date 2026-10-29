@@ -4,7 +4,7 @@ A distributed in-memory cache, built incrementally from scratch.
 
 ## Status
 - [x] Step 1: single-node LRU cache with TTL, exposed via HTTP
-- [ ] Step 2: cache as a standalone server with a client library
+- [x] Step 2: cache as a standalone server with a client library
 - [ ] Step 3: consistent hashing across multiple nodes
 - [ ] Step 4: rate limiting
 - [ ] Step 5: cache stampede protection

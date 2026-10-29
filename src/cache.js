@@ -1,5 +1,3 @@
-// src/cache.js
-
 class SimpleLRU {
   /**
    * @param {number} capacity - maximum number of entries before eviction
